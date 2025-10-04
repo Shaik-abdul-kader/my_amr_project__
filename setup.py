@@ -1,6 +1,6 @@
 from setuptools import setup
 
-package_name = 'my_robo_project'
+package_name = 'my_amr_project__'
 
 setup(
     name=package_name,
